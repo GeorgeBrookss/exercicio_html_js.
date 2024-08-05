@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    background-color: rgb(0, 46, 21);
+    font-weight: normal;
+}
+
+h1{
+    position: absolute;
+    left: 600px;
+    top: 30px;
+    color: white;
+    font-size: 100px;
+}
+
+#formulario{
+    top: 300px;
+    height: 50px;
+    position: relative;
+    left: 900px;
+    width: 300px;
+    background-color: rgba(25, 250, 5, 0.249);
+    background-repeat: no-repeat;
+    background-position: center;
+    border: inset;
+    border-color: green;
+    display: block;
+    
+}
